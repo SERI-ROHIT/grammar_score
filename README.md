@@ -34,10 +34,15 @@ Grammar Scoring
 ## Tools & Technologies Used
 
 Audio Processing-	librosa, noisereduce
+
 Speech-to-Text-	OpenAI Whisper
+
 Grammar Checking-	language-tool-python
+
 Text Analysis	textstat- regex
+
 Machine Learning (Optional)-	scikit-learn
+
 Language	Python- 3.10
 
 ## Grammar Scoring Logic
